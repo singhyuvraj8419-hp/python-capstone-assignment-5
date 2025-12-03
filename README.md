@@ -1,4 +1,4 @@
-# Campus Energy Dashboard – Yash Verma
+# Campus Energy Dashboard – Yuvrah singh
 
 This is my capstone project for the course **Programming for Problem Solving using Python**.
 
@@ -172,8 +172,9 @@ Building summary
 This project is based on the Capstone Assignment provided in the course
 Programming for Problem Solving using Python at K.R. Mangalam University.
 
-Submitted by: Yash Verma
-B.Tech CSE (AI & ML)
+Submitted by:  Yuvrah singh
 
-yaml
-Copy code
+B.Tech CSE (FSD)
+
+
+
